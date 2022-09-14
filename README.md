@@ -7,6 +7,7 @@
 PROJETS :
 
 Moteur De Recherche Deezer : (C#)
+
 Création d'une application permettant de rechercher des artistes / sons / albums disponibles sur la plateforme de streaming musical Deezer.
 Il est également possible d'écouter un extrait de 30 secondes de chaque titre.
 
